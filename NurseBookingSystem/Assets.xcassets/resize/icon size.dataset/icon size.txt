@@ -1,0 +1,4 @@
+drawable-mdpi - with a size of 48px x 48px
+drawable-hdpi - with a size of 72px x 72px
+drawable-xhdpi - with a size of 96px x 96px
+drawable-xxhdpi - with a size of 144px x 144px

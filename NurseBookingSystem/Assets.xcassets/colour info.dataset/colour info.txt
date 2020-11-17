@@ -1,0 +1,15 @@
+in this app used colour
+
+Blue   3589f1 
+
+black  0b0808
+
+for golden gradiant
+Light Goleden   f8f294
+Dark Golden     dfac3d
+
+golden colour e3b84c (used in lines & rounden box inputs)
+
+green  62a40c
+
+gray            989898
